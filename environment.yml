@@ -1,0 +1,10 @@
+name: gaf
+channels:
+  - defaults
+dependencies:
+  - anaconda
+  - pip:
+    - mpmath==1.2.1
+    - pycurl==7.45.1
+    - pyqt5-sip==12.11.0
+prefix: /Users/isaac/opt/anaconda3/envs/gaf
