@@ -1,4 +1,4 @@
-# Quasi-steady aerodynamic theory under-predicts glide performance1 in flying snakes
+# Quasi-steady aerodynamic theory under-predicts glide performance in flying snakes
 
 This repository contains code and figures for the manuscript in preparation,
 "Quasi-steady aerodynamic theory under-predicts glide performance1 in flying snakes".
